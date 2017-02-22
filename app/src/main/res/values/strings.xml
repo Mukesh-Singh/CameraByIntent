@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CameraByIntent</string>
+    <string name="smallpicture">Small Picture</string>
+    <string name="bigpicture">Big Picture</string>
+    <string name="video">video</string>
+    <string name="my_cam">My Camera Image</string>
+    <string name="my_cam_video">My Camera Video</string>
+
+    <string name="no_app_to_handle_intent">There is not any application which can handle this intent</string>
+    <string name="image_file_authority">android.example.com.camerabyintent</string>
+    <string name="capture">Capture</string>
+    <string name="stop">Stop</string>
+</resources>
